@@ -1,2 +1,3 @@
 # Contests
-My solution from different contests
+My solutions to problems from different contests that have passed all the tests
+
